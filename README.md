@@ -4,7 +4,7 @@ This project was a part of Summer Projects 2025 launched by the Consulting and A
 
 The following where the team members: 
 Vedant Sinha (lead)
-Vaishanv SR
+Vaishnav S R
 Aditya Dhaniyaal
 
 The final report for the project is in the folder named "Final Report". 
